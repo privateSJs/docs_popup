@@ -1,0 +1,311 @@
+'0x60A':
+  'Mushroom_button':
+    id: 129
+    possible_values:
+      0: "off"
+      1: 'on'
+      2: 'error'
+  Status_of_stop:
+    id: 130
+    possible_values:
+      0: '10'
+      1: '60'
+      2: '120'
+  Status_of_start:
+    id: 131
+    possible_values:
+      0: 'smooth'
+      1: 'hard'
+      2: 'error'
+  Status_of_error:
+    id: 132
+    possible_values:
+      0: 'critical'
+      1: 'warning'
+      2: 'fail'
+
+'0x60B':
+  Status_of_running:
+    id: 133
+    possible_values:
+      0: 'normal_running'
+      1: 'fast_running'
+      2: 'slow_running'
+  Status_of_current:
+    id: 134
+    possible_values:
+      0: 'overcurrent'
+      1: 'correct'
+      2: 'no current'
+  Protect_status:
+    id: 135
+    possible_values:
+      0: 'full_protect'
+      1: 'half_protect'
+      2: 'off_protect'
+  Status_of_logger:
+    id: 136
+    possible_values:
+      0: 'in_progress'
+      1: 'stopped'
+      2: 'booting'
+
+'0x60C':
+  Status_of_running:
+    id: 133
+    possible_values:
+      0: 'normal_running'
+      1: 'fast_running'
+      2: 'slow_running'
+  Status_of_current:
+    id: 134
+    possible_values:
+      0: 'overcurrent'
+      1: 'correct'
+      2: 'no current'
+  Protect_status:
+    id: 135
+    possible_values:
+      0: 'full_protect'
+      1: 'half_protect'
+      2: 'off_protect'
+  Status_of_logger:
+    id: 136
+    possible_values:
+      0: 'in_progress'
+      1: 'stopped'
+      2: 'booting'
+
+'0x60D':
+  Status_of_running:
+    id: 133
+    possible_values:
+      0: 'normal_running'
+      1: 'fast_running'
+      2: 'slow_running'
+  Status_of_current:
+    id: 134
+    possible_values:
+      0: 'overcurrent'
+      1: 'correct'
+      2: 'no current'
+  Protect_status:
+    id: 135
+    possible_values:
+      0: 'full_protect'
+      1: 'half_protect'
+      2: 'off_protect'
+  Status_of_logger:
+    id: 136
+    possible_values:
+      0: 'in_progress'
+      1: 'stopped'
+      2: 'booting'
+
+'0x60E':
+  Status_of_running:
+    id: 133
+    possible_values:
+      0: 'normal_running'
+      1: 'fast_running'
+      2: 'slow_running'
+  Status_of_current:
+    id: 134
+    possible_values:
+      0: 'overcurrent'
+      1: 'correct'
+      2: 'no current'
+  Protect_status:
+    id: 135
+    possible_values:
+      0: 'full_protect'
+      1: 'half_protect'
+      2: 'off_protect'
+  Status_of_logger:
+    id: 136
+    possible_values:
+      0: 'in_progress'
+      1: 'stopped'
+      2: 'booting'
+
+'0x60F':
+  Status_of_running:
+    id: 133
+    possible_values:
+      0: 'normal_running'
+      1: 'fast_running'
+      2: 'slow_running'
+  Status_of_current:
+    id: 134
+    possible_values:
+      0: 'overcurrent'
+      1: 'correct'
+      2: 'no current'
+  Protect_status:
+    id: 135
+    possible_values:
+      0: 'full_protect'
+      1: 'half_protect'
+      2: 'off_protect'
+  Status_of_logger:
+    id: 136
+    possible_values:
+      0: 'in_progress'
+      1: 'stopped'
+      2: 'booting'
+
+'0x60G':
+  Status_of_running:
+    id: 133
+    possible_values:
+      0: 'normal_running'
+      1: 'fast_running'
+      2: 'slow_running'
+  Status_of_current:
+    id: 134
+    possible_values:
+      0: 'overcurrent'
+      1: 'correct'
+      2: 'no current'
+  Protect_status:
+    id: 135
+    possible_values:
+      0: 'full_protect'
+      1: 'half_protect'
+      2: 'off_protect'
+  Status_of_logger:
+    id: 136
+    possible_values:
+      0: 'in_progress'
+      1: 'stopped'
+      2: 'booting'
+
+'0x60H':
+  Status_of_running:
+    id: 133
+    possible_values:
+      0: 'normal_running'
+      1: 'fast_running'
+      2: 'slow_running'
+  Status_of_current:
+    id: 134
+    possible_values:
+      0: 'overcurrent'
+      1: 'correct'
+      2: 'no current'
+  Protect_status:
+    id: 135
+    possible_values:
+      0: 'full_protect'
+      1: 'half_protect'
+      2: 'off_protect'
+  Status_of_logger:
+    id: 136
+    possible_values:
+      0: 'in_progress'
+      1: 'stopped'
+      2: 'booting'
+
+'0x60I':
+  Status_of_running:
+    id: 133
+    possible_values:
+      0: 'normal_running'
+      1: 'fast_running'
+      2: 'slow_running'
+  Status_of_current:
+    id: 134
+    possible_values:
+      0: 'overcurrent'
+      1: 'correct'
+      2: 'no current'
+  Protect_status:
+    id: 135
+    possible_values:
+      0: 'full_protect'
+      1: 'half_protect'
+      2: 'off_protect'
+  Status_of_logger:
+    id: 136
+    possible_values:
+      0: 'in_progress'
+      1: 'stopped'
+      2: 'booting'
+
+'0x60J':
+  Status_of_running:
+    id: 133
+    possible_values:
+      0: 'normal_running'
+      1: 'fast_running'
+      2: 'slow_running'
+  Status_of_current:
+    id: 134
+    possible_values:
+      0: 'overcurrent'
+      1: 'correct'
+      2: 'no current'
+  Protect_status:
+    id: 135
+    possible_values:
+      0: 'full_protect'
+      1: 'half_protect'
+      2: 'off_protect'
+  Status_of_logger:
+    id: 136
+    possible_values:
+      0: 'in_progress'
+      1: 'stopped'
+      2: 'booting'
+
+'0x60K':
+  Status_of_running:
+    id: 133
+    possible_values:
+      0: 'normal_running'
+      1: 'fast_running'
+      2: 'slow_running'
+  Status_of_current:
+    id: 134
+    possible_values:
+      0: 'overcurrent'
+      1: 'correct'
+      2: 'no current'
+  Protect_status:
+    id: 135
+    possible_values:
+      0: 'full_protect'
+      1: 'half_protect'
+      2: 'off_protect'
+  Status_of_logger:
+    id: 136
+    possible_values:
+      0: 'in_progress'
+      1: 'stopped'
+      2: 'booting'
+
+'0x60L':
+  Status_of_running:
+    id: 133
+    possible_values:
+      0: 'normal_running'
+      1: 'fast_running'
+      2: 'slow_running'
+  Status_of_current:
+    id: 134
+    possible_values:
+      0: 'overcurrent'
+      1: 'correct'
+      2: 'no current'
+  Protect_status:
+    id: 135
+    possible_values:
+      0: 'full_protect'
+      1: 'half_protect'
+      2: 'off_protect'
+  Status_of_logger:
+    id: 136
+    possible_values:
+      0: 'in_progress'
+      1: 'stopped'
+      2: 'booting'
